@@ -15,6 +15,3 @@
 - Incidentes: Desvios.
 - Flujo separado: Costa Oriental.
 - Conteo de embarques: BL, luego Booking, PO, Invoice o Contenedor.
-
-## Netlify
-La primera vez, ejecutar `npx netlify login` y `npx netlify link` dentro del proyecto. Después el BAT despliega automáticamente.
