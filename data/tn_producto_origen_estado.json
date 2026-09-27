@@ -1,0 +1,632 @@
+[
+  {
+    "producto": "FLOJET DR 53225 ARG",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 199.68
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 1381.12
+  },
+  {
+    "producto": "FLOJET DRP 3652 X",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 15.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 627.4
+  },
+  {
+    "producto": "FLOPAM AN 934 SH",
+    "origen": "CHINA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 30.0
+  },
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 5.6
+  },
+  {
+    "producto": "FLOJET DRP 5151 X",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 5.6
+  },
+  {
+    "producto": "FLOJET DRMAX E 358",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 37.44
+  },
+  {
+    "producto": "FLOJET DR 53225 ARG",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 37.44
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 568.88
+  },
+  {
+    "producto": "FLOJET DRMAX E 562",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 56.16
+  },
+  {
+    "producto": "KRATON MD8703",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 1.113
+  },
+  {
+    "producto": "FLOJET DR 53225 ARG",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 224.64
+  },
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 112.0
+  },
+  {
+    "producto": "KRATON MD8703",
+    "origen": "Sin dato",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.127
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 1472.64
+  },
+  {
+    "producto": "FLOJET DR 53225 ARG",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 388.96
+  },
+  {
+    "producto": "FLOJET DRP 3652 X",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 120.0
+  },
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 208.0
+  },
+  {
+    "producto": "FLOJET DRMAX E 358",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 56.16
+  },
+  {
+    "producto": "FLOJET DRMAX E 562",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 37.44
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "INDIA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 2397.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 1035.2
+  },
+  {
+    "producto": "KRATON MD8703",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "CHINA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 3121.6
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "CANADA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 592.0
+  },
+  {
+    "producto": "FLOJET DRP 5151 X",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 95.2
+  },
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 91.2
+  },
+  {
+    "producto": "FLOJET DRMAX E 562",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 8.32
+  },
+  {
+    "producto": "FLOPAM AN 934 SH",
+    "origen": "CHINA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 15.0
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 163.2
+  },
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 11.2
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 240.24
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 256.0
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 199.68
+  },
+  {
+    "producto": "FLOJET DRP 7115 FG",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 140.0
+  },
+  {
+    "producto": "FLOJET DRP 7115 FG",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 393.6
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "CHINA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 198.4
+  },
+  {
+    "producto": "AQUARITE ESL",
+    "origen": "UK",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 17.6
+  },
+  {
+    "producto": "CLEARBREAK DM951 2200LB TOTE",
+    "origen": "Sin dato",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 35.924
+  },
+  {
+    "producto": "FR WH COMPONENT 3 1250 KG",
+    "origen": "Sin dato",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 140.0
+  },
+  {
+    "producto": "SCR 100 L",
+    "origen": "Sin dato",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 18.143
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 355.68
+  },
+  {
+    "producto": "CLEARBREAK DM951 2200LB TOTE",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 17.962
+  },
+  {
+    "producto": "FR WH COMPONENT 3 1250 KG",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 70.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 256.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 66.4
+  },
+  {
+    "producto": "DV5-33857",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 188.25
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "INDIA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 204.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "CHINA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 648.0
+  },
+  {
+    "producto": "Coreflooding (LAB)",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "Sin dato",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 16.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "origen": "CHINA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 864.0
+  },
+  {
+    "producto": "SCR 100",
+    "origen": "Sin dato",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 18.0
+  },
+  {
+    "producto": "K0008",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 18.72
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 179.2
+  },
+  {
+    "producto": "FLOJET DR 53225 ARG",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 79.04
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 49.92
+  },
+  {
+    "producto": "FLOJET DRMAX E 358",
+    "origen": "USA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 24.96
+  },
+  {
+    "producto": "Dust collector",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "INDIA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 72.0
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "Sin dato",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 25.6
+  },
+  {
+    "producto": "CLEARBREAK DM951 2200LB TOTE",
+    "origen": "USA",
+    "estado": "Finalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 17.962
+  },
+  {
+    "producto": "Spare parts Hibon",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "FLOJET DRMAX E 562",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 95.68
+  },
+  {
+    "producto": "REPUESTO EOR - PL N°65 - PECOM",
+    "origen": "Sin dato",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.014
+  },
+  {
+    "producto": "Muestra",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.008
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "CHINA",
+    "estado": "Retirado / entrega",
+    "tipoOperacion": "Importación directa",
+    "tn": 48.0
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "CHINA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 312.0
+  },
+  {
+    "producto": "Repuestos EOR - PECOM PL 4",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 3652 X",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 368.0
+  },
+  {
+    "producto": "Planta Slurry - Contenedor SOC 1",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 11.796
+  },
+  {
+    "producto": "Planta Slurry - Contenedor SOC 2",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 12.354
+  },
+  {
+    "producto": "Planta Slurry - Contenedor SOC 5",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 10.889
+  },
+  {
+    "producto": "FLOJET DRP 6024 FG",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 144.0
+  },
+  {
+    "producto": "Planta Slurry - Contenedor SOC 3",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 12.477
+  },
+  {
+    "producto": "Planta Slurry - Contenedor SOC 4",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 9.904
+  },
+  {
+    "producto": "Planta Slurry - Contenedor SOC 6",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 12.444
+  },
+  {
+    "producto": "Repuestos Laboratorio",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "Gearmotor",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.058
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "INDIA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 25.5
+  },
+  {
+    "producto": "CHEMPLEX C27",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 2.724
+  },
+  {
+    "producto": "Planta Slurry - FSU",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 0.0
+  },
+  {
+    "producto": "FLOJET DRMAX E 358",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Costa Oriental",
+    "tn": 6.24
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 32.0
+  },
+  {
+    "producto": "CLEARBREAK DI 910",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 2.858
+  },
+  {
+    "producto": "CLEARBREAK DI 930",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 2.722
+  },
+  {
+    "producto": "FLOJET DRP 6024 FG",
+    "origen": "Sin dato",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 16.0
+  },
+  {
+    "producto": "CLEARBREAK DM951 2200LB TOTE",
+    "origen": "USA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 17.962
+  },
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "origen": "CHINA",
+    "estado": "Nacionalizado",
+    "tipoOperacion": "Importación directa",
+    "tn": 168.0
+  }
+]

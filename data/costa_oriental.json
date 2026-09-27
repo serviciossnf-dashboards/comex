@@ -1,0 +1,79 @@
+[
+  {
+    "producto": "FLOJET DRMAX P 9115",
+    "disponibleKg": 0.0,
+    "facturadoKg": 38400.0,
+    "totalFisicoKg": 340800.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 2340 X",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 3402 X",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 2400.0
+  },
+  {
+    "producto": "FLOJET DRP 3652 X",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET EM 533 FRAC",
+    "disponibleKg": 0.0,
+    "facturadoKg": 3120.0,
+    "totalFisicoKg": 3120.0,
+    "aFacturarKg": 8320.0
+  },
+  {
+    "producto": "FLOJET DR 53225 ARG",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET DRMAX E 562",
+    "disponibleKg": 0.0,
+    "facturadoKg": 120640.0,
+    "totalFisicoKg": 800800.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 7115 FG",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET DRP 5151 X",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOJET DRMAX E 358",
+    "disponibleKg": 0.0,
+    "facturadoKg": 6240.0,
+    "totalFisicoKg": 6240.0,
+    "aFacturarKg": 0.0
+  },
+  {
+    "producto": "FLOPAM AN 934 SH",
+    "disponibleKg": 0.0,
+    "facturadoKg": 0.0,
+    "totalFisicoKg": 0.0,
+    "aFacturarKg": 0.0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "dashboard-comex-snf",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:data": "node scripts/process_excel.js",
+    "serve": "npx serve .",
+    "deploy": "netlify deploy --prod --dir ."
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^19.0.0",
+    "serve": "^14.2.4"
+  }
+}
